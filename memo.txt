@@ -1,0 +1,13 @@
+WP
+
+
+
+
+TVOX
+=============================
+utilizzare questa funzione per customizzare il post type buddyfrive: buddydrive_get_file_post_type()
+visualizzo un campo customi buddydrive:
+inizialmemte duplico i file, stringa chiave "SB"
+modifico un campo custom
+inizialment
+

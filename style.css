@@ -34,6 +34,22 @@
 		background-image: url('./includes/images/sfum.gif');
 		background-color: #7f7f7f;
 	}
+	
+	.archive-children {
+    border-bottom: 1px solid #e6e6e6;
+    display: block;
+    float: left;
+    margin: 0 0 30px;
+    padding: 0 0 10px;
+    width: 100%;
+	}
+	
+	.archive-children li {
+    float: left;
+    padding: 10px;
+    margin: 0 10px 0 0;
+    border: 1px solid #e6e6e6;
+	}
 
 
 
